@@ -154,9 +154,9 @@ The complete internship report is available inside the **report/** directory.
 
 # 👨‍💻 Author
 
-**Srinivas**
+**Manas**
 
-Computer Science & Engineering
+Artificial Intellegence & Machine Learning
 
 Sreenidhi Institute of Science and Technology
 
