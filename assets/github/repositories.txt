@@ -1,0 +1,11 @@
+Task 1
+https://github.com/Sriniccc/ApexPlanet_Task1_Foundational_Setup_EDA
+
+Task 2
+https://github.com/Sriniccc/ApexPlanet_Task2_SQL_Data_Extraction
+
+Task 3
+https://github.com/Sriniccc/ApexPlanet_Task3_Data_Visualization
+
+Task 4
+https://github.com/Sriniccc/ApexPlanet_Task4_Advanced_Analytics

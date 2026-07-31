@@ -1,0 +1,25 @@
+DATASET INFORMATION
+============================================================
+
+Rows    : 1000
+Columns : 17
+
+Data Types
+------------------------------------------------------------
+invoice_id                     str
+branch                         str
+city                           str
+customer_type                  str
+gender                         str
+product_line                   str
+unit_price                 float64
+quantity                     int64
+tax_5                      float64
+sales                      float64
+date                           str
+time                           str
+payment                        str
+cogs                       float64
+gross_margin_percentage    float64
+gross_income               float64
+rating                     float64
